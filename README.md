@@ -1,3 +1,6 @@
+### 📜 Archived Repository
+Marked as archived, this repository highlights stages of my early coding experiences.
+
 # If-I-had-a-Million-Dollars
 A code for rendering graph for my school project, "If I had a million dollars."
 
